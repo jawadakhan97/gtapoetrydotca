@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   content: [
     "./src/**/*.{astro,js,jsx,ts,tsx}",
   ],
@@ -27,4 +27,4 @@ module.exports = {
     },
   },
   plugins: [],
-}
+};
